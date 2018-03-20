@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Android_Me</string>
+    <string name="master_list_button_next_text">Next</string>
 </resources>
